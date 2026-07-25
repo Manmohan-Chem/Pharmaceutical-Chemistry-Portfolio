@@ -132,6 +132,7 @@ Review covering non-DSM scaffold inhibitors, molecular interactions, and future 
 - Molecular Dynamics Simulation
 - 3D-QSAR (CoMFA & CoMSIA)
 - ADMET Prediction
+- Virtual Screening
 
 ## Software
 
@@ -140,19 +141,25 @@ Review covering non-DSM scaffold inhibitors, molecular interactions, and future 
 - NAMD
 - SYBYL-X
 - PyMOL
-- ChemDraw
-- SwissADME
 - Discovery Studio Visualizer
+- SwissADME
+- ChemDraw
 
 ## Laboratory Techniques
 
 - Organic Synthesis
+- Compound Purification
 - NMR Spectroscopy
 - FTIR Spectroscopy
 - LC-MS
 - HPLC
-- Compound Purification
 
+## Scientific Skills
+
+- Scientific Writing
+- Literature Review
+- Research Proposal Writing
+- Data Analysis
 ---
 
 # 🏆 Awards & Recognition
