@@ -217,6 +217,12 @@ https://github.com/Manmohan-Chem
 
 ## Thank You
 
+---
+
+## 🤝 Let's Connect
+
 Thank you for visiting my GitHub research portfolio.
 
-I welcome opportunities for collaboration, postdoctoral research, and positions in medicinal chemistry, computational chemistry, pharmaceutical R&D, and drug discovery.
+I am passionate about medicinal chemistry, computational drug discovery, and pharmaceutical research. I welcome opportunities for collaboration, postdoctoral research, and research scientist positions in academia and industry.
+
+© 2026 Manmohan Sharma
