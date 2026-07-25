@@ -80,14 +80,20 @@ My research combines **medicinal chemistry**, **computational drug discovery**, 
 
 # 📊 Research Profile
 
-| Research Metric | Details |
-|-----------------|---------|
-| Publications | 13 |
-| Google Scholar Citations | 155+ |
-| h-index | 8 |
-| i10-index | 6 |
-| International Research Experience | University of Torino, Italy |
-| Research Area | Medicinal Chemistry & Drug Discovery |
+# 📂 Portfolio
+
+Explore the sections below to learn more about my academic and research journey.
+
+| 📁 Section | Description |
+|------------|-------------|
+| 👤 About-Me | Professional profile and research interests |
+| 📄 CV | Curriculum Vitae |
+| 📚 Publications | Peer-reviewed journal articles |
+| 🧪 Projects | Research projects from B.Pharm to Ph.D. |
+| 💻 Skills | Technical and laboratory skills |
+| 🎤 Conferences | Scientific conferences, workshops, and training |
+| 🏆 Achievements | Awards, fellowships, and recognitions |
+| 📬 Contact | Contact details and professional profiles |
 
 ---
 
