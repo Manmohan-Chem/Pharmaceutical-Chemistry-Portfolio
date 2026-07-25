@@ -91,6 +91,31 @@ My research combines **medicinal chemistry**, **computational drug discovery**, 
 
 ---
 
+# 📚 Featured Publications
+
+### 1. Novel Benzophenone, Acetophenone and Benzohydrazide-Containing Triazolopyrimidines as PfDHODH Inhibitors
+**Journal of Molecular Structure (2025)**
+
+Designed and evaluated novel PfDHODH inhibitors using computational and experimental approaches for antimalarial drug discovery.
+
+---
+
+### 2. A Comprehensive Review of PfDHODH Inhibitors – Part I
+**Bioorganic Chemistry (2024)**
+
+Comprehensive review of reported PfDHODH inhibitors, medicinal chemistry strategies, and structure–activity relationships.
+
+---
+
+### 3. A Comprehensive Review of PfDHODH Inhibitors – Part II
+**Bioorganic Chemistry (2024)**
+
+Review covering non-DSM scaffold inhibitors, molecular interactions, and future perspectives in antimalarial drug discovery.
+
+---
+
+📖 **See the complete publication list in the `Publications` folder.**
+
 # 🧪 Technical Expertise
 
 ## Medicinal Chemistry
