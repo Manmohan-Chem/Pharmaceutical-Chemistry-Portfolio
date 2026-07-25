@@ -1,23 +1,27 @@
 # Research Projects
 
-## 1. Ph.D. Research: Discovery of Novel PfDHODH Inhibitors as Antimalarial Agents
+## Ph.D. Research Project
 
-**Duration:** Ph.D. Research
+**Duration:** September 2021 – July 2025
 
-### Objective
-Design, synthesize, and biologically evaluate novel inhibitors targeting *Plasmodium falciparum* dihydroorotate dehydrogenase (PfDHODH) for antimalarial drug discovery.
+### Title
 
-### Research Highlights
+**Design, Synthesis, and Biological Evaluation of Novel *Plasmodium falciparum* Dihydroorotate Dehydrogenase (PfDHODH) Inhibitors as Antimalarial Agents**
 
-- Designed novel triazolopyrimidine derivatives using structure-based drug design.
-- Performed molecular docking and molecular dynamics simulations to identify promising lead compounds.
+### Overview
+
+This doctoral research focused on discovering novel antimalarial agents targeting *Plasmodium falciparum* dihydroorotate dehydrogenase (PfDHODH) using an integrated medicinal chemistry and computational drug discovery approach.
+
+### Major Contributions
+
+- Designed novel PfDHODH inhibitors using structure-based drug design.
 - Developed predictive 3D-QSAR (CoMFA & CoMSIA) models.
-- Conducted ADMET prediction and drug-likeness evaluation.
-- Synthesized selected lead compounds.
-- Characterized compounds using NMR, FTIR, LC-MS, and HPLC.
-- Evaluated compounds using PfDHODH enzyme inhibition and antimalarial assays.
+- Performed molecular docking and molecular dynamics simulations.
+- Evaluated ADMET properties and drug-likeness.
+- Synthesized and characterized novel compounds.
+- Conducted enzyme inhibition and antimalarial biological evaluation.
 
-### Techniques Used
+### Techniques
 
 - Medicinal Chemistry
 - Molecular Docking
@@ -25,57 +29,51 @@ Design, synthesize, and biologically evaluate novel inhibitors targeting *Plasmo
 - 3D-QSAR
 - Organic Synthesis
 - ADMET Prediction
-- Structure-Based Drug Design
 
 ---
 
-## 2. Computational Drug Discovery
+## IDEA Lab Research Project
 
-Designed and optimized bioactive molecules using computational chemistry tools.
+**Duration:** November 2023 – March 2024
 
-### Software Used
+### Title
 
-- AutoDock Vina
-- GROMACS
-- NAMD
-- PyMOL
-- SYBYL-X
-- SwissADME
-- Discovery Studio Visualizer
+**Synthesis of N-substituted 4-oxo-4H-2-amino-quinolizines as PfDHODH inhibitors targeting malarial parasites**
 
-### Methods
+### Highlights
 
-- Protein Preparation
-- Ligand Preparation
-- Molecular Docking
-- Binding Pose Analysis
-- Molecular Dynamics Simulation
-- MM/PBSA Analysis
-- ADMET Prediction
+- Designed quinolizine-based PfDHODH inhibitors.
+- Synthesized novel heterocyclic molecules.
+- Evaluated compounds for antimalarial drug discovery.
 
 ---
 
-## 3. Organic Synthesis of Bioactive Molecules
+## M.Pharm Research Project
 
-Synthesized and purified novel heterocyclic compounds for medicinal chemistry research.
+**Duration:** July 2019 – June 2020
 
-### Techniques
+### Title
 
-- Multi-step Organic Synthesis
-- Compound Purification
-- Reaction Optimization
-- NMR Spectroscopy
-- FTIR Spectroscopy
-- LC-MS
-- HPLC
+**1,3-Dipolar Cycloaddition Reaction of Nitrile Oxides with Vinyl Ethylene Carbonate Towards the Generation of Bioactive Bis-Heterocycles and Identification of COX-2 Inhibitors via In Silico Analysis**
+
+### Highlights
+
+- Organic synthesis of bioactive heterocycles.
+- Computational screening for COX-2 inhibitors.
+- Biological activity prediction.
 
 ---
 
-## Research Areas
+## B.Pharm Project
 
-- Medicinal Chemistry
-- Drug Discovery
-- Antimalarial Drug Discovery
-- Structure-Based Drug Design
-- Computational Drug Discovery
-- Organic Synthesis
+**Duration:** June 2016 – July 2017
+
+### Title
+
+**Comparative Sales Survey of Leading Brands of Ranitidine in Different Locations of Dehradun and Haridwar**
+
+### Highlights
+
+- Pharmaceutical market survey.
+- Comparative brand analysis.
+- Drug utilization study.
