@@ -164,10 +164,17 @@ Review covering non-DSM scaffold inhibitors, molecular interactions, and future 
 
 # 🏆 Awards & Recognition
 
-- 🥇 Best Researcher of the Year (2023)
-- 🏅 Young Scientist Award (2023)
-- 🥇 First Prize – ISCB International Conference Poster Presentation (2024)
-- 🌍 SCI2024 Fellowship Awardee (Italy)
+- 🏅 Awarded the **SCI2024 Fellowship** by the Italian Chemical Society (SCI2024) for participation in the XXVIII National Congress held in Milan, Italy (2024).
+
+- 🥇 Received **First Prize in Poster Presentation** at the 28th ISCB International Conference (2024), Marwadi University, Rajkot, India.
+
+- 🏆 Honored with the **Best Researcher of the Year 2023** award by the Institute of Pharmacy, Nirma University, Ahmedabad.
+
+- 🌟 Received the **Young Scientist Award** at the International Conference on Latest Trends and Innovations in Pharmaceuticals and Biosciences (ICLTIPB-2023), Career Point University, Kota.
+
+- 🥈 Secured **Second Rank** in M.Pharm (Pharmaceutical Chemistry) at the Central University of Rajasthan.
+
+- 🥇 Won **First Prize** in the COVID-19 Awareness Quiz Competition conducted by Noida Institute of Engineering and Technology.
 
 ---
 
