@@ -4,6 +4,15 @@
 <b>Medicinal Chemist • Computational Drug Discovery • Pharmaceutical Scientist</b>
 </p>
 
+![PhD](https://img.shields.io/badge/Ph.D.-Medicinal%20Chemistry-blue)
+
+![Publications](https://img.shields.io/badge/Publications-13-success)
+
+![Google Scholar](https://img.shields.io/badge/Citations-155-orange)
+
+![Research](https://img.shields.io/badge/Research-PfDHODH-red)
+
+![Drug Discovery](https://img.shields.io/badge/Drug-Discovery-brightgreen)
 <p align="center">
 
 📍 India • 💊 Medicinal Chemistry • 🧬 Drug Discovery
