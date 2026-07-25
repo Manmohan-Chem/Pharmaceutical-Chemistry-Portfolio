@@ -15,6 +15,17 @@
 ![Drug Discovery](https://img.shields.io/badge/Drug-Discovery-brightgreen)
 <p align="center">
 
+## 📂 Quick Navigation
+
+- 👤 [About Me](About-Me/)
+- 📄 [Curriculum Vitae (CV)](CV/)
+- 📚 [Publications](Publications/)
+- 🧪 [Research Projects](Projects/)
+- 💻 [Technical Skills](Skills/)
+- 🎤 [Conferences & Workshops](Conferences/)
+- 🏆 [Achievements](Achievements/)
+- 📬 [Contact](Contact/)
+
 📍 India • 💊 Medicinal Chemistry • 🧬 Drug Discovery
 
 </p>
