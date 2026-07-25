@@ -29,6 +29,16 @@ I completed my **Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry)** from t
 
 My research combines **medicinal chemistry**, **computational drug discovery**, **structure-based drug design**, **molecular modeling**, and **organic synthesis** to develop novel therapeutic agents for infectious diseases, particularly antimalarial drug discovery.
 
+## 📊 Research Highlights
+
+- 🎓 Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry)
+- 📄 13 Peer-reviewed Publications
+- 📚 155+ Google Scholar Citations
+- 📈 h-index: 8
+- 🧪 4 Major Research Projects
+- 🏆 Best Researcher of the Year 2023
+- 🌍 International Research Fellowship (SCI2024, Italy)
+
 ---
 
 # 👨‍🔬 About Me
