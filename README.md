@@ -6,8 +6,7 @@
   <img src="Images/profile.jpg" width="180" alt="Dr. Manmohan Sharma">
 </p>
 
-
-# <p align="center">👋 Dr. Manmohan Sharma</p>
+<h1 align="center">👋 Dr. Manmohan Sharma</h1>
 
 <p align="center">
 <b>Medicinal Chemist • Computational Drug Discovery • Pharmaceutical Scientist</b>
