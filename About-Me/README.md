@@ -2,21 +2,21 @@
 
 # Manmohan Sharma, Ph.D.
 
-I am a Medicinal Chemist with expertise in medicinal chemistry, computational drug discovery, structure-based drug design, and organic synthesis. I completed my Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry) from the Institute of Pharmacy, Nirma University, Ahmedabad, India.
+I am a Medicinal Chemist specializing in medicinal chemistry, computational drug discovery, structure-based drug design, and organic synthesis. I completed my Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry) from the Institute of Pharmacy, Nirma University, Ahmedabad, India.
 
-My doctoral research focused on the design, synthesis, and biological evaluation of novel **Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH)** inhibitors using an integrated approach that combines computational chemistry and medicinal chemistry.
+My doctoral research focused on the design, synthesis, and biological evaluation of novel Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors using an integrated workflow combining medicinal chemistry, computational modeling, and biological evaluation.
 
 ## Research Interests
 
 - Medicinal Chemistry
-- Computational Drug Discovery
+- Drug Discovery
+- Antimalarial Drug Discovery
 - Structure-Based Drug Design
+- Computational Drug Discovery
 - Molecular Docking
 - Molecular Dynamics Simulation
-- 3D-QSAR (CoMFA & CoMSIA)
+- 3D-QSAR
 - Organic Synthesis
-- Antimalarial Drug Discovery
-- Lead Optimization
 - ADMET Prediction
 
 ## Research Experience
