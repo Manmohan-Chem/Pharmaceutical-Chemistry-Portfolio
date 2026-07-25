@@ -42,13 +42,14 @@ My research combines **medicinal chemistry**, **computational drug discovery**, 
 
 ## 📊 Research Highlights
 
-- 🎓 Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry)
-- 📄 13 Peer-reviewed Publications
-- 📚 155+ Google Scholar Citations
-- 📈 h-index: 8
-- 🧪 4 Major Research Projects
-- 🏆 Best Researcher of the Year 2023
-- 🌍 International Research Fellowship (SCI2024, Italy)
+- 🎓 Completed Ph.D. in Pharmaceutical Sciences (Medicinal Chemistry), Institute of Pharmacy, Nirma University, Ahmedabad, India.
+- 📚 Author/Co-author of **13 peer-reviewed research publications** in international journals.
+- 📈 **155+ Google Scholar citations**, **h-index: 8**, **i10-index: 6**.
+- 🌍 International research experience through the **Erasmus+ Programme** at the University of Torino, Italy.
+- 🏆 Recipient of the **SCI2024 Fellowship** awarded by the Italian Chemical Society.
+- 🥇 Best Researcher of the Year (2023), Institute of Pharmacy, Nirma University.
+- 🥇 Young Scientist Award (2023), ICLTIPB-2023.
+- 🥇 First Prize in Poster Presentation, ISCB International Conference 2024.
 
 ---
 
