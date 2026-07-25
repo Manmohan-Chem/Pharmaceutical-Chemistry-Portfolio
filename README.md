@@ -53,16 +53,6 @@ My research combines **medicinal chemistry**, **computational drug discovery**, 
 ---
 
 ## 🔬 Research Interests
-## 🔬 Research Interests
-
-- Medicinal Chemistry
-- Antimalarial Drug Discovery
-- PfDHODH Inhibitors
-- Structure-Based Drug Design
-- Molecular Docking
-- Molecular Dynamics Simulation
-- Organic Synthesis
-- Lead Optimization
 
 - Medicinal Chemistry
 - Antimalarial Drug Discovery
