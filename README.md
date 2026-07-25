@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Images/banner.png" alt="Research Banner" width="100%">
+</p>
 # <p align="center">👋 Dr. Manmohan Sharma</p>
 
 <p align="center">
