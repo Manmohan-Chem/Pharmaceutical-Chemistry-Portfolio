@@ -184,21 +184,6 @@ Review covering non-DSM scaffold inhibitors, molecular interactions, and future 
 
 ---
 
-# 📂 Portfolio
-
-| Section | Description |
-|---------|-------------|
-| 📖 About-Me | Professional profile and research interests |
-| 📄 CV | Curriculum Vitae |
-| 📚 Publications | Journal publications |
-| 🧪 Projects | Research projects |
-| 💻 Skills | Technical skills |
-| 🎤 Conferences | Conferences and workshops |
-| 🏆 Achievements | Awards and recognitions |
-| 📬 Contact | Contact information |
-
----
-
 # 🧬 Current Research
 
 - Plasmodium falciparum Dihydroorotate Dehydrogenase (PfDHODH)
